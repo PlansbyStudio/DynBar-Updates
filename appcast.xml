@@ -3,5 +3,13 @@
     <channel>
         <title>DynBar</title>
         <!-- RELEASE_ITEMS -->
+        <item>
+            <title>2.3.0</title>
+            <pubDate>Fri, 10 Jul 2026 16:49:08 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/PlansbyStudio/DynBar-Updates/releases/download/v2.3.0/DynBar-2.3.0.zip" type="application/octet-stream" sparkle:edSignature="h1B9EPe6Llk0CeQH6SUq4x3CXHMphnZWK+pCRU4jY/wfYSoFEy/tiBDZtHcI8ivzDB+4JocVSn4gEANUvKhACA==" length="32055013"/>
+        </item>
     </channel>
 </rss>
