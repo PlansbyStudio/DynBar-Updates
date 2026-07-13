@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest"><strong>⬇︎ Download the latest version</strong></a>
+  <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">
+    <img src="https://img.shields.io/badge/⬇︎_Download_DynBar-0A84FF?style=for-the-badge&logoColor=white" alt="Download the latest version" height="45">
+  </a>
+  <br>
+  <sub>Gets the signed <code>.zip</code> from the <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">latest GitHub Release</a></sub>
 </p>
 
 ---
