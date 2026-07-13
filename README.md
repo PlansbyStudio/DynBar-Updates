@@ -96,15 +96,32 @@ CPU, GPU, memory, network, and disk, sampled live.
 
 ### Everyday utilities
 
-Clipboard history, a ruler-style timer, colour picker, a webcam mirror, mounted-volume shortcuts,
-and a built-in terminal tab — plus lock-screen widgets for media, timers, and weather when the Mac
-is asleep.
+Clipboard history, a ruler-style timer, colour picker, and a built-in terminal tab — plus a webcam
+mirror, mounted-volume shortcuts, and lock-screen widgets for media, timers, and weather when the
+Mac is asleep.
 
-<p align="center">
-  <img src="assets/timer.png" alt="DynBar ruler-style timer" width="600">
-  <br><br>
-  <img src="assets/colorpicker.png" alt="DynBar colour picker panel" width="280">
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="assets/clipboard.png" alt="DynBar clipboard manager with recent text, colours, and files" width="380"><br>
+  <sub><strong>Clipboard history</strong> — text, colours, images, and files, with favourites.</sub>
+</td>
+<td width="50%" align="center">
+  <img src="assets/colorpicker.png" alt="DynBar colour picker with HEX, RGB, HSL, SwiftUI, and UIColor" width="380"><br>
+  <sub><strong>Colour picker</strong> — grab a colour, get HEX, RGB, HSL, SwiftUI, and UIColor at once.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="assets/timer.png" alt="DynBar ruler-style timer" width="380"><br>
+  <sub><strong>Ruler-style timer</strong> — drag to set, glance at the countdown from the notch.</sub>
+</td>
+<td width="50%" align="center">
+  <img src="assets/terminal.png" alt="DynBar built-in terminal tab" width="380"><br>
+  <sub><strong>Built-in terminal</strong> — a full shell tab without leaving the notch.</sub>
+</td>
+</tr>
+</table>
 
 ## Download & install
 
