@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>The MacBook notch, turned into a command surface.</strong><br>
-  Media, AI usage, system insight, and one-click workflows — right where you already look.
+  Media, AI agent usage, system insight, and one-click workflows — right where you already look.
 </p>
 
 <p align="center">
@@ -24,33 +24,71 @@
 
 ---
 
-DynBar lives in the notch — or a floating bar on Macs without one — and stays out of the way until
-you need it. Hover or click and it expands with native animations into whatever you reached for: the
-now-playing track, your AI agent's token budget, an export that just finished, or a saved set of apps
-that opens exactly where you want them.
+Most notch apps stop at "now playing." DynBar started there too — then kept growing, because the
+people building it spend all day either waiting on an AI coding agent or waiting on a render. So the
+notch became the one place both live: your agent's token burn next to your export's progress bar, a
+click away from whatever you were actually doing.
+
+<p align="center">
+  <video src="assets/panel-expand.mp4" controls muted playsinline width="820"></video>
+  <br>
+  <sub>Hover or click the notch — it expands into whatever you reached for.</sub>
+</p>
+
+## You'll like DynBar if you...
+
+- run **Claude Code, Codex, or Cursor** and want to see token burn, cost, and which sessions are
+  waiting on you — without alt-tabbing to a terminal.
+- export from **Premiere Pro, Media Encoder, Lightroom, or Photoshop** and are tired of babysitting
+  a progress bar in a hidden window.
+- have a "standup" or "deep work" window layout you rebuild by hand every single morning.
+- just want the notch to stop being 200px of dead black space.
+
+## Highlights
+
+- **AI & agent dashboard** — live token usage, cost, and quota for **Claude**, **Codex**, and
+  **Cursor**, plus which sessions are running or waiting for you. Tap a session to jump straight
+  into it.
+- **Creative export detection** — a live activity when **Premiere Pro**, **Media Encoder**,
+  **Lightroom**, or **Photoshop** starts an export, so you can glance at progress from anywhere.
+- **Menu-bar workflows** — launch a set of apps, folders, and files with one click, each window
+  placed on the display and at the size you choose (halves, quarters, maximised, centred).
+- **Media & live activities** — playback controls with previews, plus Focus, screen recording,
+  downloads, and battery/charging indicators.
+- **System insight** — CPU, GPU, memory, network, and disk, sampled live.
+- **Everyday utilities** — clipboard history, a ruler-style timer, colour picker, calendar previews,
+  a webcam mirror, mounted-volume shortcuts, and a built-in terminal tab.
+- **Lock-screen widgets** — media, timers, charging, Bluetooth devices, and weather, without waking
+  the Mac.
 
 <p align="center">
   <img src="assets/ai-dashboard.png" alt="DynBar AI & agent usage dashboard in the notch" width="820">
 </p>
 
-## Highlights
+## See it in action
 
-- **AI & agent dashboard** — live token usage, cost, and quota for **Claude**, **Codex**, and
-  **Cursor**, plus which agent sessions are running or waiting for you.
-- **Creative export detection** — a live activity when **Premiere Pro**, **Media Encoder**,
-  **Lightroom**, or **Photoshop** starts an export, so you can glance at progress from anywhere.
-- **Menu-bar workflows** — launch a set of apps, folders, and files with one click, each window
-  placed on the display and at the size you choose.
-- **Media & live activities** — playback controls with previews, plus Focus, screen recording,
-  downloads, and battery/charging indicators.
-- **System insight** — CPU, GPU, memory, network, and disk, sampled live.
-- **Everyday utilities** — clipboard history, timers, colour picker, calendar previews, a webcam
-  mirror, and lock-screen widgets.
+<table>
+<tr>
+<td align="center" width="50%">
+<video src="assets/adobe-export.mp4" controls muted playsinline width="380"></video>
+<br><sub><strong>Creative export detection</strong> — a Premiere Pro export tracked live in the notch.</sub>
+</td>
+<td align="center" width="50%">
+<video src="assets/workflow-creation.mp4" controls muted playsinline width="380"></video>
+<br><sub><strong>Menu-bar workflows</strong> — one click opens a whole layout, windows placed exactly where you want them.</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="assets/notch-media.png" alt="DynBar media controls in the notch" width="720">
   <br><br>
   <img src="assets/stats.png" alt="DynBar system stats panel" width="720">
+</p>
+
+<p align="center">
+  <img src="assets/colorpicker.png" alt="DynBar colour picker panel" width="380">
+  <img src="assets/timer.png" alt="DynBar ruler-style timer" width="380">
 </p>
 
 ## Download & install
