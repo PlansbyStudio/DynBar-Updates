@@ -30,7 +30,7 @@ now-playing track, your AI agent's token budget, an export that just finished, o
 that opens exactly where you want them.
 
 <p align="center">
-  <img src="assets/notch-media.png" alt="DynBar media controls in the notch" width="720">
+  <img src="assets/ai-dashboard.png" alt="DynBar AI & agent usage dashboard in the notch" width="820">
 </p>
 
 ## Highlights
@@ -48,6 +48,8 @@ that opens exactly where you want them.
   mirror, and lock-screen widgets.
 
 <p align="center">
+  <img src="assets/notch-media.png" alt="DynBar media controls in the notch" width="720">
+  <br><br>
   <img src="assets/stats.png" alt="DynBar system stats panel" width="720">
 </p>
 
