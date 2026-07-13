@@ -4,6 +4,14 @@
         <title>DynBar</title>
         <!-- RELEASE_ITEMS -->
         <item>
+            <title>2.3.4</title>
+            <pubDate>Tue, 14 Jul 2026 00:36:28 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>2.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/PlansbyStudio/DynBar-Updates/releases/download/v2.3.4/DynBar-2.3.4.zip" type="application/octet-stream" sparkle:edSignature="W3ZcuqR+AiPlM6wyvcM/5cTpy9paAcLTqZVKDSFLSp/v46lNdFngB3QYpjBBNe9C/pM4OPeQxXnP95uKMq+2AQ==" length="32898180"/>
+        </item>
+        <item>
             <title>2.3.3</title>
             <pubDate>Mon, 13 Jul 2026 15:52:25 +0200</pubDate>
             <sparkle:version>16</sparkle:version>
