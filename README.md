@@ -102,23 +102,23 @@ Mac is asleep.
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <img src="assets/clipboard.png" alt="DynBar clipboard manager with recent text, colours, and files" width="380"><br>
-  <sub><strong>Clipboard history</strong> — text, colours, images, and files, with favourites.</sub>
+  <sub><strong>Clipboard history</strong> — text, colours, images, and files.</sub>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <img src="assets/colorpicker.png" alt="DynBar colour picker with HEX, RGB, HSL, SwiftUI, and UIColor" width="380"><br>
-  <sub><strong>Colour picker</strong> — grab a colour, get HEX, RGB, HSL, SwiftUI, and UIColor at once.</sub>
+  <sub><strong>Colour picker</strong> — HEX, RGB, HSL, SwiftUI, and UIColor at once.</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <img src="assets/timer.png" alt="DynBar ruler-style timer" width="380"><br>
-  <sub><strong>Ruler-style timer</strong> — drag to set, glance at the countdown from the notch.</sub>
+  <sub><strong>Ruler-style timer</strong> — drag to set, glance at the countdown.</sub>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <img src="assets/terminal.png" alt="DynBar built-in terminal tab" width="380"><br>
-  <sub><strong>Built-in terminal</strong> — a full shell tab without leaving the notch.</sub>
+  <sub><strong>Built-in terminal</strong> — a full shell tab, without leaving the notch.</sub>
 </td>
 </tr>
 </table>
