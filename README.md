@@ -46,44 +46,55 @@ click away from whatever you were actually doing.
 
 ## Highlights
 
-- **AI & agent dashboard** — live token usage, cost, and quota for **Claude**, **Codex**, and
-  **Cursor**, plus which sessions are running or waiting for you. Tap a session to jump straight
-  into it.
-- **Creative export detection** — a live activity when **Premiere Pro**, **Media Encoder**,
-  **Lightroom**, or **Photoshop** starts an export, so you can glance at progress from anywhere.
-- **Menu-bar workflows** — launch a set of apps, folders, and files with one click, each window
-  placed on the display and at the size you choose (halves, quarters, maximised, centred).
-- **Media & live activities** — playback controls with previews, plus Focus, screen recording,
-  downloads, and battery/charging indicators.
-- **System insight** — CPU, GPU, memory, network, and disk, sampled live.
-- **Everyday utilities** — clipboard history, a ruler-style timer, colour picker, calendar previews,
-  a webcam mirror, mounted-volume shortcuts, and a built-in terminal tab.
-- **Lock-screen widgets** — media, timers, charging, Bluetooth devices, and weather, without waking
-  the Mac.
+### AI & agent dashboard
+
+Live token usage, cost, and quota for **Claude**, **Codex**, and **Cursor**, plus which sessions
+are running or waiting for you. Tap a session to jump straight into it.
 
 <p align="center">
-  <img src="assets/ai-dashboard.png" alt="DynBar AI & agent usage dashboard in the notch" width="820">
+  <img src="assets/ai-dashboard.png" alt="DynBar AI & agent usage dashboard in the notch" width="760">
 </p>
 
-## See it in action
+### Creative export detection
+
+A live activity when **Premiere Pro**, **Media Encoder**, **Lightroom**, or **Photoshop** starts an
+export, so you can glance at progress from anywhere.
 
 <p align="center">
   <img src="assets/adobe-export.gif" alt="DynBar tracking a Premiere Pro export in a notch live activity" width="600">
-  <br>
-  <sub><strong>Creative export detection</strong> — a Premiere Pro export tracked live in the notch.</sub>
 </p>
+
+### Menu-bar workflows
+
+Launch a set of apps, folders, and files with one click, each window placed on the display and at
+the size you choose (halves, quarters, maximised, centred).
 
 <p align="center">
   <img src="assets/workflow-creation.gif" alt="Building a DynBar menu-bar workflow with per-app window placement" width="600">
-  <br>
-  <sub><strong>Menu-bar workflows</strong> — pick your apps, set where each window lands, launch with one click.</sub>
 </p>
 
+### Media & live activities
+
+Playback controls with previews, plus Focus, screen recording, downloads, battery/charging — and a
+calendar preview right alongside whatever's playing.
+
 <p align="center">
-  <img src="assets/notch-media.png" alt="DynBar media controls in the notch" width="600">
-  <br><br>
-  <img src="assets/stats.png" alt="DynBar system stats panel" width="600">
+  <img src="assets/music-panel.gif" alt="DynBar media player expanding into a panel with a calendar preview" width="700">
 </p>
+
+### System insight
+
+CPU, GPU, memory, network, and disk, sampled live.
+
+<p align="center">
+  <img src="assets/stats.png" alt="DynBar system stats panel" width="700">
+</p>
+
+### Everyday utilities
+
+Clipboard history, a ruler-style timer, colour picker, a webcam mirror, mounted-volume shortcuts,
+and a built-in terminal tab — plus lock-screen widgets for media, timers, and weather when the Mac
+is asleep.
 
 <p align="center">
   <img src="assets/timer.png" alt="DynBar ruler-style timer" width="600">
