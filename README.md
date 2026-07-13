@@ -123,6 +123,11 @@ Mac is asleep.
 </tr>
 </table>
 
+### Customise everything
+
+Layouts, animations, and hover behaviour are yours to tune. Remap gestures, and give any action —
+media controls, workflows, timers — its own global keyboard shortcut.
+
 ## Download & install
 
 1. **[Download the latest release](https://github.com/PlansbyStudio/DynBar-Updates/releases/latest)**
@@ -156,6 +161,8 @@ so updates are tamper-proof even without notarisation.
 
 DynBar is made by **[PlansbyStudio](https://plansbystudio.de)**.
 Found a bug or have an idea? Open an issue on this repository.
+
+If DynBar saves you a click a day, a ⭐ on this repo helps other people find it.
 
 ---
 
