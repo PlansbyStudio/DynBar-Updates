@@ -67,28 +67,28 @@ click away from whatever you were actually doing.
 
 ## See it in action
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="assets/adobe-export.gif" alt="DynBar tracking a Premiere Pro export in a notch live activity" width="380">
-<br><sub><strong>Creative export detection</strong> — a Premiere Pro export tracked live in the notch.</sub>
-</td>
-<td align="center" width="50%">
-<img src="assets/workflow-creation.gif" alt="Building a DynBar menu-bar workflow with per-app window placement" width="380">
-<br><sub><strong>Menu-bar workflows</strong> — pick your apps, set where each window lands, launch with one click.</sub>
-</td>
-</tr>
-</table>
-
 <p align="center">
-  <img src="assets/notch-media.png" alt="DynBar media controls in the notch" width="720">
-  <br><br>
-  <img src="assets/stats.png" alt="DynBar system stats panel" width="720">
+  <img src="assets/adobe-export.gif" alt="DynBar tracking a Premiere Pro export in a notch live activity" width="600">
+  <br>
+  <sub><strong>Creative export detection</strong> — a Premiere Pro export tracked live in the notch.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/colorpicker.png" alt="DynBar colour picker panel" width="380">
-  <img src="assets/timer.png" alt="DynBar ruler-style timer" width="380">
+  <img src="assets/workflow-creation.gif" alt="Building a DynBar menu-bar workflow with per-app window placement" width="600">
+  <br>
+  <sub><strong>Menu-bar workflows</strong> — pick your apps, set where each window lands, launch with one click.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/notch-media.png" alt="DynBar media controls in the notch" width="600">
+  <br><br>
+  <img src="assets/stats.png" alt="DynBar system stats panel" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/timer.png" alt="DynBar ruler-style timer" width="600">
+  <br><br>
+  <img src="assets/colorpicker.png" alt="DynBar colour picker panel" width="280">
 </p>
 
 ## Download & install
