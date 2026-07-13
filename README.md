@@ -30,7 +30,7 @@ notch became the one place both live: your agent's token burn next to your expor
 click away from whatever you were actually doing.
 
 <p align="center">
-  <video src="assets/panel-expand.mp4" controls muted playsinline width="820"></video>
+  <img src="assets/panel-expand.gif" alt="DynBar notch expanding from a closed pill into a full panel" width="700">
   <br>
   <sub>Hover or click the notch — it expands into whatever you reached for.</sub>
 </p>
@@ -70,12 +70,12 @@ click away from whatever you were actually doing.
 <table>
 <tr>
 <td align="center" width="50%">
-<video src="assets/adobe-export.mp4" controls muted playsinline width="380"></video>
+<img src="assets/adobe-export.gif" alt="DynBar tracking a Premiere Pro export in a notch live activity" width="380">
 <br><sub><strong>Creative export detection</strong> — a Premiere Pro export tracked live in the notch.</sub>
 </td>
 <td align="center" width="50%">
-<video src="assets/workflow-creation.mp4" controls muted playsinline width="380"></video>
-<br><sub><strong>Menu-bar workflows</strong> — one click opens a whole layout, windows placed exactly where you want them.</sub>
+<img src="assets/workflow-creation.gif" alt="Building a DynBar menu-bar workflow with per-app window placement" width="380">
+<br><sub><strong>Menu-bar workflows</strong> — pick your apps, set where each window lands, launch with one click.</sub>
 </td>
 </tr>
 </table>
