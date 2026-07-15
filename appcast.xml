@@ -4,6 +4,23 @@
         <title>DynBar</title>
         <!-- RELEASE_ITEMS -->
         <item>
+            <title>2.3.5</title>
+            <pubDate>Wed, 15 Jul 2026 20:21:35 +0200</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>2.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li>Neuer Bereich „Cache&quot; in den Einstellungen: zeigt, wie viel Speicherplatz DynBar durch zwischengespeicherte Daten belegt, und erlaubt es, ihn mit einem Klick freizugeben</li>
+<li>Nach dem Teilen per AirDrop bleiben keine temporären Kopien der Dateien mehr liegen</li>
+<li>Updates zeigen jetzt eine Übersicht der Neuerungen direkt im Update-Fenster an</li>
+</ul>
+<p><a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/tag/v2.3.5">Details</a></p>
+<p><a href="https://github.com/PlansbyStudio/DynBar-Updates/releases">Aktueller Versionsverlauf</a></p>
+            ]]></description>
+            <enclosure url="https://github.com/PlansbyStudio/DynBar-Updates/releases/download/v2.3.5/DynBar-2.3.5.zip" type="application/octet-stream" sparkle:edSignature="QrVj1KLDw1FugqoBAChqOeGEkNfR1+E3JZQl/YCCvKwWG6YJIvSifJtPby4fu+Q5p/hcrAfYfOCM73Am+EPbCg==" length="32947126"/>
+        </item>
+        <item>
             <title>2.3.4</title>
             <pubDate>Tue, 14 Jul 2026 00:36:28 +0200</pubDate>
             <sparkle:version>17</sparkle:version>
