@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">
+  <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest/download/DynBar.dmg">
     <img src="https://img.shields.io/badge/⬇︎_Download_DynBar-0A84FF?style=for-the-badge&logoColor=white" alt="Download the latest version" height="45">
   </a>
   <br>
-  <sub>Gets the signed <code>.zip</code> from the <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">latest GitHub Release</a></sub>
+  <sub>Downloads <code>DynBar.dmg</code> — always the <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">latest release</a></sub>
 </p>
 
 ---
@@ -134,9 +134,9 @@ media controls, workflows, timers — its own global keyboard shortcut.
 
 ## Download & install
 
-1. **[Download the latest release](https://github.com/PlansbyStudio/DynBar-Updates/releases/latest)**
-   and unzip it.
-2. Move **DynBar.app** into your **Applications** folder.
+1. **[Download DynBar.dmg](https://github.com/PlansbyStudio/DynBar-Updates/releases/latest/download/DynBar.dmg)**
+   and open it.
+2. Drag **DynBar** into your **Applications** folder, then eject the disk image.
 3. DynBar is signed but not notarised, so macOS blocks the very first launch. **Right-click the app
    → Open** once (or open *System Settings → Privacy & Security* and choose **Open Anyway**). After
    that, it launches normally.

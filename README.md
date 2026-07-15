@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">
+  <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest/download/DynBar.dmg">
     <img src="https://img.shields.io/badge/⬇︎_DynBar_herunterladen-0A84FF?style=for-the-badge&logoColor=white" alt="Aktuelle Version herunterladen" height="45">
   </a>
   <br>
-  <sub>Lädt die signierte <code>.zip</code> aus dem <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">neuesten GitHub-Release</a></sub>
+  <sub>Lädt <code>DynBar.dmg</code> — immer das <a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/latest">neueste Release</a></sub>
 </p>
 
 ---
@@ -135,9 +135,9 @@ Aktion — Mediensteuerung, Workflows, Timer — ihren eigenen globalen Tastatur
 
 ## Download & Installation
 
-1. **[Neuestes Release herunterladen](https://github.com/PlansbyStudio/DynBar-Updates/releases/latest)**
-   und entpacken.
-2. **DynBar.app** in deinen **Programme**-Ordner verschieben.
+1. **[DynBar.dmg herunterladen](https://github.com/PlansbyStudio/DynBar-Updates/releases/latest/download/DynBar.dmg)**
+   und öffnen.
+2. **DynBar** in deinen **Programme**-Ordner ziehen, danach das Image auswerfen.
 3. DynBar ist signiert, aber nicht notarisiert — deshalb blockiert macOS den allerersten Start.
    Einmal **rechtsklicken → Öffnen** (oder *Systemeinstellungen → Datenschutz & Sicherheit* öffnen und
    **Trotzdem öffnen** wählen). Danach startet die App ganz normal.
