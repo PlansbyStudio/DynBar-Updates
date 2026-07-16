@@ -4,6 +4,23 @@
         <title>DynBar</title>
         <!-- RELEASE_ITEMS -->
         <item>
+            <title>2.3.6</title>
+            <pubDate>Thu, 16 Jul 2026 12:10:42 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>2.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li>Komplett neu gestaltetes Onboarding mit Profil-Auswahl und optionaler Einrichtung für Claude Code und Codex.</li>
+<li>Das Onboarding richtet sich jetzt nach der Systemsprache (Deutsch oder Englisch).</li>
+<li>Behoben: Auf Bildschirmen ohne Notch konnte die Dynamic Island im Ruhezustand ausgeblendet werden, obwohl sie dauerhaft angezeigt werden sollte.</li>
+</ul>
+<p><a href="https://github.com/PlansbyStudio/DynBar-Updates/releases/tag/v2.3.6">Details</a></p>
+<p><a href="https://github.com/PlansbyStudio/DynBar-Updates/releases">Aktueller Versionsverlauf</a></p>
+            ]]></description>
+            <enclosure url="https://github.com/PlansbyStudio/DynBar-Updates/releases/download/v2.3.6/DynBar-2.3.6.zip" type="application/octet-stream" sparkle:edSignature="nDJvZ3Q16ZzIHz/mCSwNQ8Py4/nD1zBtjQTdincPz9wqnTXkLrx4FnbacDFfw7ZG01trUDpE2v6976H8BdJ5Cw==" length="31250885"/>
+        </item>
+        <item>
             <title>2.3.5</title>
             <pubDate>Wed, 15 Jul 2026 20:21:35 +0200</pubDate>
             <sparkle:version>18</sparkle:version>
